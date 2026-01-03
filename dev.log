@@ -1,0 +1,96 @@
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://21.0.9.246:3000
+   - Environments: .env
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 2.5s
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 7.1s (763 modules)
+ POST /invoke 404 in 7671ms
+ ○ Compiling / ...
+ ✓ Compiled / in 601ms (738 modules)
+ GET / 200 in 702ms
+ ✓ Compiled in 990ms (764 modules)
+ GET / 200 in 1280ms
+ ✓ Compiled in 302ms (368 modules)
+ GET / 200 in 674ms
+ ✓ Compiled in 1273ms (750 modules)
+ GET / 200 in 95ms
+ GET / 200 in 120ms
+ ○ Compiling /api/chatbot ...
+ ✓ Compiled /api/chatbot in 567ms (772 modules)
+ POST /api/chatbot 200 in 9076ms
+ ✓ Compiled in 753ms (765 modules)
+ GET / 200 in 520ms
+ GET / 200 in 109ms
+ ✓ Compiled /api/chatbot in 315ms (417 modules)
+ POST /api/chatbot 200 in 1606ms
+ POST /api/chatbot 200 in 9073ms
+ GET / 200 in 133ms
+ POST /api/chatbot 200 in 10246ms
+ ✓ Compiled in 796ms (765 modules)
+ GET / 200 in 658ms
+ ✓ Compiled in 532ms (765 modules)
+ GET / 200 in 314ms
+ GET / 200 in 111ms
+ ✓ Compiled /api/chatbot in 288ms (417 modules)
+ GET / 200 in 48ms
+ POST /api/chatbot 200 in 15902ms
+ POST /api/chatbot 200 in 9857ms
+ ✓ Compiled in 635ms (765 modules)
+ GET / 200 in 313ms
+ GET / 200 in 102ms
+ ✓ Compiled in 676ms (765 modules)
+ GET / 200 in 715ms
+ ✓ Compiled in 688ms (765 modules)
+ GET / 200 in 752ms
+ ✓ Compiled in 642ms (765 modules)
+ GET / 200 in 79ms
+ GET / 200 in 133ms
+ ✓ Compiled in 699ms (765 modules)
+ GET / 200 in 518ms
+ ✓ Compiled in 573ms (765 modules)
+ GET / 200 in 295ms
+ ✓ Compiled in 792ms (765 modules)
+ GET / 200 in 602ms
+ GET / 200 in 108ms
+ ✓ Compiled /api/chatbot in 486ms (417 modules)
+ POST /api/chatbot 200 in 6571ms
+ POST /api/chatbot 200 in 8020ms
+ GET / 200 in 143ms
+ ✓ Compiled in 666ms (765 modules)
+ GET / 200 in 560ms
+ ✓ Compiled in 685ms (765 modules)
+ GET / 200 in 784ms
+ ✓ Compiled in 549ms (765 modules)
+ GET / 200 in 756ms
+ ✓ Compiled in 528ms (765 modules)
+ GET / 200 in 73ms
+ GET / 200 in 141ms
+ GET / 200 in 72ms
+ ✓ Compiled /api/chatbot in 369ms (417 modules)
+ GET / 200 in 65ms
+ POST /api/chatbot 200 in 1900ms
+ POST /api/chatbot 200 in 1013ms
+ POST /api/chatbot 200 in 917ms
+ ✓ Compiled in 735ms (765 modules)
+ GET / 200 in 765ms
+ ✓ Compiled in 704ms (765 modules)
+ GET / 200 in 764ms
+ ✓ Compiled in 539ms (765 modules)
+ GET / 200 in 527ms
+ GET / 200 in 116ms
+ ✓ Compiled /api/chatbot in 249ms (417 modules)
+ GET / 200 in 71ms
+ POST /api/chatbot 200 in 1992ms
+ GET / 200 in 135ms
+ ✓ Compiled in 394ms (369 modules)
+ GET / 200 in 497ms
+ GET / 200 in 79ms
+ GET / 200 in 77ms
